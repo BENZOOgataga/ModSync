@@ -16,7 +16,7 @@ Python 3.x
 - Open your terminal and navigate to the project folder.
 - Run the script with two folder paths as arguments:
 ```
-python modsync.py "<folder1>" "<folder2>"
+python script.py "<folder1>" "<folder2>"
 ```
 Replace <folder1> and <folder2> with the paths to the folders you want to compare.
 
